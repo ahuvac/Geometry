@@ -1,0 +1,14 @@
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/obj/Debug/GeometryA.csprojAssemblyReference.cache
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/obj/Debug/GeometryA.csproj.CoreCompileInputs.cache
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/bin/Debug/GeometryA.exe.config
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/bin/Debug/GeometryA.exe
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/bin/Debug/GeometryA.pdb
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/obj/Debug/GeometryA.exe
+C:/Users/Katz9/Documents/_MyFiles/Touro/_2021__Spring/3 MCON 368 OOP/Source/Geometry/GeometryA/obj/Debug/GeometryA.pdb
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/bin/Debug/GeometryA.exe.config
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/bin/Debug/GeometryA.exe
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/bin/Debug/GeometryA.pdb
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/obj/Debug/GeometryA.csprojAssemblyReference.cache
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/obj/Debug/GeometryA.csproj.CoreCompileInputs.cache
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/obj/Debug/GeometryA.exe
+/Users/ahuvacheifetz/Downloads/Geometry/GeometryAnew/obj/Debug/GeometryA.pdb
